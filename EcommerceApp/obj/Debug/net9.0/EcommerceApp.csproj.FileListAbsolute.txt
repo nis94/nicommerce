@@ -45,7 +45,6 @@
 /Users/nirbarlevav/vs/EcommerceApp/obj/Debug/net9.0/compressed/cem2qatybv-j5mq2jizvt.gz
 /Users/nirbarlevav/vs/EcommerceApp/obj/Debug/net9.0/compressed/yenxlsknes-06098lyss8.gz
 /Users/nirbarlevav/vs/EcommerceApp/obj/Debug/net9.0/compressed/z6yw5bfwat-nvvlpmu67g.gz
-/Users/nirbarlevav/vs/EcommerceApp/obj/Debug/net9.0/compressed/au0ds3o1pu-s35ty4nyc5.gz
 /Users/nirbarlevav/vs/EcommerceApp/obj/Debug/net9.0/compressed/fjhy9jsnmf-pj5nd1wqec.gz
 /Users/nirbarlevav/vs/EcommerceApp/obj/Debug/net9.0/compressed/uleinjrptm-46ein0sx1k.gz
 /Users/nirbarlevav/vs/EcommerceApp/obj/Debug/net9.0/compressed/5cilc0g608-v0zj4ognzu.gz
@@ -196,3 +195,4 @@
 /Users/nirbarlevav/vs/EcommerceApp/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 /Users/nirbarlevav/vs/EcommerceApp/obj/Debug/net9.0/EcommerceApp.csproj.AssemblyReference.cache
 /Users/nirbarlevav/vs/EcommerceApp/obj/Debug/net9.0/Ecommerc.7F121851.Up2Date
+/Users/nirbarlevav/vs/EcommerceApp/obj/Debug/net9.0/compressed/au0ds3o1pu-i5i4ciimow.gz

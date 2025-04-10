@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "FihJxruhf/09Kfbv+I/ch6vKItrRo8M8uOeP2Vjob38=",
+  "Hash": "qSfW+bkjYm6XHcn23XfMfJyfBxbU7jBd/Ssn/LE6nIo=",
   "Source": "EcommerceApp",
   "BasePath": "_content/EcommerceApp",
   "Mode": "Default",
@@ -458,12 +458,12 @@
       "OriginalItemSpec": "/Users/nirbarlevav/vs/EcommerceApp/obj/Debug/net9.0/scopedcss/projectbundle/EcommerceApp.bundle.scp.css"
     },
     {
-      "Identity": "/Users/nirbarlevav/vs/EcommerceApp/obj/Debug/net9.0/compressed/au0ds3o1pu-s35ty4nyc5.gz",
+      "Identity": "/Users/nirbarlevav/vs/EcommerceApp/obj/Debug/net9.0/compressed/au0ds3o1pu-i5i4ciimow.gz",
       "SourceId": "EcommerceApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/nirbarlevav/vs/EcommerceApp/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/EcommerceApp",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint=s35ty4nyc5}]?.css.gz",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint=i5i4ciimow}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -472,8 +472,8 @@
       "RelatedAsset": "/Users/nirbarlevav/vs/EcommerceApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "lzu6cjurhc",
-      "Integrity": "n8W3VdC4I3veW4VnsbrnEGvARFEgXX9cBa7M89gRvWI=",
+      "Fingerprint": "2mce2i4cd6",
+      "Integrity": "WkHpNERDGdY6uLKCYuWhA/PDgod0OZ1TpnVD2TCZ2qA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/nirbarlevav/vs/EcommerceApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css"
@@ -1984,8 +1984,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "s35ty4nyc5",
-      "Integrity": "GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=",
+      "Fingerprint": "i5i4ciimow",
+      "Integrity": "Ghfp8g+J6hDjKXk/cv4d5RptTlxtyy4uR4X8FAFvyIo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
@@ -11371,12 +11371,12 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "/Users/nirbarlevav/vs/EcommerceApp/obj/Debug/net9.0/compressed/au0ds3o1pu-s35ty4nyc5.gz",
+      "AssetFile": "/Users/nirbarlevav/vs/EcommerceApp/obj/Debug/net9.0/compressed/au0ds3o1pu-i5i4ciimow.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000030073379"
+          "Quality": "0.000029999400"
         }
       ],
       "ResponseHeaders": [
@@ -11386,15 +11386,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33251"
+          "Value": "33333"
         },
         {
           "Name": "ETag",
-          "Value": "\"n8W3VdC4I3veW4VnsbrnEGvARFEgXX9cBa7M89gRvWI=\""
+          "Value": "\"WkHpNERDGdY6uLKCYuWhA/PDgod0OZ1TpnVD2TCZ2qA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Apr 2025 14:11:23 GMT"
+          "Value": "Thu, 10 Apr 2025 05:29:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11414,13 +11414,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
+          "Value": "W/\"Ghfp8g+J6hDjKXk/cv4d5RptTlxtyy4uR4X8FAFvyIo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
+          "Value": "sha256-Ghfp8g+J6hDjKXk/cv4d5RptTlxtyy4uR4X8FAFvyIo="
         }
       ]
     },
@@ -11435,7 +11435,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "281046"
+          "Value": "273689"
         },
         {
           "Name": "Content-Type",
@@ -11443,11 +11443,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
+          "Value": "\"Ghfp8g+J6hDjKXk/cv4d5RptTlxtyy4uR4X8FAFvyIo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Apr 2025 14:11:23 GMT"
+          "Value": "Thu, 10 Apr 2025 05:29:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11457,13 +11457,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
+          "Value": "sha256-Ghfp8g+J6hDjKXk/cv4d5RptTlxtyy4uR4X8FAFvyIo="
         }
       ]
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.gz",
-      "AssetFile": "/Users/nirbarlevav/vs/EcommerceApp/obj/Debug/net9.0/compressed/au0ds3o1pu-s35ty4nyc5.gz",
+      "AssetFile": "/Users/nirbarlevav/vs/EcommerceApp/obj/Debug/net9.0/compressed/au0ds3o1pu-i5i4ciimow.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11472,7 +11472,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33251"
+          "Value": "33333"
         },
         {
           "Name": "Content-Type",
@@ -11480,11 +11480,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"n8W3VdC4I3veW4VnsbrnEGvARFEgXX9cBa7M89gRvWI=\""
+          "Value": "\"WkHpNERDGdY6uLKCYuWhA/PDgod0OZ1TpnVD2TCZ2qA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Apr 2025 14:11:23 GMT"
+          "Value": "Thu, 10 Apr 2025 05:29:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11502,7 +11502,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-n8W3VdC4I3veW4VnsbrnEGvARFEgXX9cBa7M89gRvWI="
+          "Value": "sha256-WkHpNERDGdY6uLKCYuWhA/PDgod0OZ1TpnVD2TCZ2qA="
         }
       ]
     },
@@ -11801,6 +11801,167 @@
         {
           "Name": "integrity",
           "Value": "sha256-QUuhsynxQOlfK5DQYL8JUQrTx7RfwGegz12iNenpec4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.i5i4ciimow.css",
+      "AssetFile": "/Users/nirbarlevav/vs/EcommerceApp/obj/Debug/net9.0/compressed/au0ds3o1pu-i5i4ciimow.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000029999400"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33333"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WkHpNERDGdY6uLKCYuWhA/PDgod0OZ1TpnVD2TCZ2qA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 05:29:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Ghfp8g+J6hDjKXk/cv4d5RptTlxtyy4uR4X8FAFvyIo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i5i4ciimow"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ghfp8g+J6hDjKXk/cv4d5RptTlxtyy4uR4X8FAFvyIo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.i5i4ciimow.css",
+      "AssetFile": "/Users/nirbarlevav/vs/EcommerceApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "273689"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ghfp8g+J6hDjKXk/cv4d5RptTlxtyy4uR4X8FAFvyIo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 05:29:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i5i4ciimow"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ghfp8g+J6hDjKXk/cv4d5RptTlxtyy4uR4X8FAFvyIo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.i5i4ciimow.css.gz",
+      "AssetFile": "/Users/nirbarlevav/vs/EcommerceApp/obj/Debug/net9.0/compressed/au0ds3o1pu-i5i4ciimow.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33333"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WkHpNERDGdY6uLKCYuWhA/PDgod0OZ1TpnVD2TCZ2qA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 05:29:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i5i4ciimow"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WkHpNERDGdY6uLKCYuWhA/PDgod0OZ1TpnVD2TCZ2qA="
         }
       ]
     },
@@ -13589,167 +13750,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-U4Fb0kGgh99rOTlgKWLxJ9830Vhug5WC4AtpIoTow/A="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.s35ty4nyc5.css",
-      "AssetFile": "/Users/nirbarlevav/vs/EcommerceApp/obj/Debug/net9.0/compressed/au0ds3o1pu-s35ty4nyc5.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000030073379"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33251"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"n8W3VdC4I3veW4VnsbrnEGvARFEgXX9cBa7M89gRvWI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Apr 2025 14:11:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "s35ty4nyc5"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.s35ty4nyc5.css",
-      "AssetFile": "/Users/nirbarlevav/vs/EcommerceApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "281046"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Apr 2025 14:11:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "s35ty4nyc5"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.s35ty4nyc5.css.gz",
-      "AssetFile": "/Users/nirbarlevav/vs/EcommerceApp/obj/Debug/net9.0/compressed/au0ds3o1pu-s35ty4nyc5.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33251"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"n8W3VdC4I3veW4VnsbrnEGvARFEgXX9cBa7M89gRvWI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Apr 2025 14:11:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "s35ty4nyc5"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-n8W3VdC4I3veW4VnsbrnEGvARFEgXX9cBa7M89gRvWI="
         }
       ]
     },
