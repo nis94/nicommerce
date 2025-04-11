@@ -1,0 +1,12 @@
+/Users/nirbarlevav/vs/Models/bin/Debug/net9.0/Nicommerce.Models.deps.json
+/Users/nirbarlevav/vs/Models/bin/Debug/net9.0/Nicommerce.Models.dll
+/Users/nirbarlevav/vs/Models/bin/Debug/net9.0/Nicommerce.Models.pdb
+/Users/nirbarlevav/vs/Models/obj/Debug/net9.0/Nicommerce.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nirbarlevav/vs/Models/obj/Debug/net9.0/Nicommerce.Models.AssemblyInfoInputs.cache
+/Users/nirbarlevav/vs/Models/obj/Debug/net9.0/Nicommerce.Models.AssemblyInfo.cs
+/Users/nirbarlevav/vs/Models/obj/Debug/net9.0/Nicommerce.Models.csproj.CoreCompileInputs.cache
+/Users/nirbarlevav/vs/Models/obj/Debug/net9.0/Nicommerce.Models.sourcelink.json
+/Users/nirbarlevav/vs/Models/obj/Debug/net9.0/Nicommerce.Models.dll
+/Users/nirbarlevav/vs/Models/obj/Debug/net9.0/refint/Nicommerce.Models.dll
+/Users/nirbarlevav/vs/Models/obj/Debug/net9.0/Nicommerce.Models.pdb
+/Users/nirbarlevav/vs/Models/obj/Debug/net9.0/ref/Nicommerce.Models.dll

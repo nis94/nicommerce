@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using EcommerceApp.Models;
+using Nicommerce.Models;
 
-namespace EcommerceApp.Controllers;
+namespace Nicommerce.Controllers;
 
 public class HomeController : Controller
 {

@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "/Users/nirbarlevav/vs/EcommerceApp/obj/Debug/net9.0/scopedcss/projectbundle/EcommerceApp.bundle.scp.css",
-      "PackagePath": "staticwebassets/EcommerceApp.aa3nnzrg5a.bundle.scp.css"
+      "Id": "/Users/nirbarlevav/vs/EcommerceApp/obj/Debug/net9.0/scopedcss/projectbundle/NicommerceWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets/NicommerceWeb.kjv7r0m2w6.bundle.scp.css"
     },
     {
       "Id": "/Users/nirbarlevav/vs/EcommerceApp/wwwroot/css/site.css",
@@ -257,24 +257,24 @@
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.min.map"
     },
     {
-      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.EcommerceApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.NicommerceWeb.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
-      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.EcommerceApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.NicommerceWeb.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.EcommerceApp.props",
-      "PackagePath": "build\\EcommerceApp.props"
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.NicommerceWeb.props",
+      "PackagePath": "build\\NicommerceWeb.props"
     },
     {
-      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.EcommerceApp.props",
-      "PackagePath": "buildMultiTargeting\\EcommerceApp.props"
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.NicommerceWeb.props",
+      "PackagePath": "buildMultiTargeting\\NicommerceWeb.props"
     },
     {
-      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.EcommerceApp.props",
-      "PackagePath": "buildTransitive\\EcommerceApp.props"
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.NicommerceWeb.props",
+      "PackagePath": "buildTransitive\\NicommerceWeb.props"
     }
   ],
   "ElementsToRemove": []

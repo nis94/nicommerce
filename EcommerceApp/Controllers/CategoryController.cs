@@ -1,15 +1,16 @@
-using EcommerceApp.Data;
-using EcommerceApp.Models;
-using Microsoft.AspNetCore.Mvc;
 
-namespace EcommerceApp.Controllers
+using Microsoft.AspNetCore.Mvc;
+using Nicommerce.DataAccess.Data;
+using Nicommerce.Models;
+
+namespace NicommerceWeb.Controllers
 {
     public class CategoryController : Controller
     {
         private readonly ApplicationDbContext _db;
         public CategoryController(ApplicationDbContext db)
         {
-            _db = db;
+            _db = db;   
         }
 
         public IActionResult Index()

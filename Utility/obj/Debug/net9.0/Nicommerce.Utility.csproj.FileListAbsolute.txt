@@ -1,0 +1,12 @@
+/Users/nirbarlevav/vs/Utility/bin/Debug/net9.0/Nicommerce.Utility.deps.json
+/Users/nirbarlevav/vs/Utility/bin/Debug/net9.0/Nicommerce.Utility.dll
+/Users/nirbarlevav/vs/Utility/bin/Debug/net9.0/Nicommerce.Utility.pdb
+/Users/nirbarlevav/vs/Utility/obj/Debug/net9.0/Nicommerce.Utility.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nirbarlevav/vs/Utility/obj/Debug/net9.0/Nicommerce.Utility.AssemblyInfoInputs.cache
+/Users/nirbarlevav/vs/Utility/obj/Debug/net9.0/Nicommerce.Utility.AssemblyInfo.cs
+/Users/nirbarlevav/vs/Utility/obj/Debug/net9.0/Nicommerce.Utility.csproj.CoreCompileInputs.cache
+/Users/nirbarlevav/vs/Utility/obj/Debug/net9.0/Nicommerce.Utility.sourcelink.json
+/Users/nirbarlevav/vs/Utility/obj/Debug/net9.0/Nicommerce.Utility.dll
+/Users/nirbarlevav/vs/Utility/obj/Debug/net9.0/refint/Nicommerce.Utility.dll
+/Users/nirbarlevav/vs/Utility/obj/Debug/net9.0/Nicommerce.Utility.pdb
+/Users/nirbarlevav/vs/Utility/obj/Debug/net9.0/ref/Nicommerce.Utility.dll
