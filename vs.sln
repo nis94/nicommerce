@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NicommerceWeb", "EcommerceApp\NicommerceWeb.csproj", "{CE7BEABB-FB59-435D-95E3-8D2AC8B47239}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NicommerceWeb", "NicommerceWeb\NicommerceWeb.csproj", "{CE7BEABB-FB59-435D-95E3-8D2AC8B47239}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nicommerce.DataAccess", "vs.DataAccess\Nicommerce.DataAccess.csproj", "{0CDC4641-3B64-41E1-8189-715F54420E23}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nicommerce.DataAccess", "Nicommerce.DataAccess\Nicommerce.DataAccess.csproj", "{0CDC4641-3B64-41E1-8189-715F54420E23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nicommerce.Models", "Models\Nicommerce.Models.csproj", "{2615588B-176F-46FA-A4C6-C049840C7121}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nicommerce.Models", "Nicommerce.Models\Nicommerce.Models.csproj", "{2615588B-176F-46FA-A4C6-C049840C7121}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nicommerce.Utility", "Utility\Nicommerce.Utility.csproj", "{A58283BE-275A-43CD-AC7B-2343001505D4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nicommerce.Utility", "Nicommerce.Utility\Nicommerce.Utility.csproj", "{A58283BE-275A-43CD-AC7B-2343001505D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
