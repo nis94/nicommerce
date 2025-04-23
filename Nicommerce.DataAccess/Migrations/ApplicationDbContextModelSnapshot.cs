@@ -74,6 +74,9 @@ namespace Nicommerce.DataAccess.Migrations
                         .IsRequired()
                         .HasColumnType("text");
 
+                    b.Property<int>("CategoryId")
+                        .HasColumnType("integer");
+
                     b.Property<string>("Description")
                         .IsRequired()
                         .HasColumnType("text");
@@ -82,8 +85,9 @@ namespace Nicommerce.DataAccess.Migrations
                         .IsRequired()
                         .HasColumnType("text");
 
-                    b.Property<double>("ListPrice")
-                        .HasColumnType("double precision");
+                    b.Property<string>("ImageUrl")
+                        .IsRequired()
+                        .HasColumnType("text");
 
                     b.Property<double>("Price")
                         .HasColumnType("double precision");
@@ -94,6 +98,8 @@ namespace Nicommerce.DataAccess.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("CategoryId");
+
                     b.ToTable("Products");
 
                     b.HasData(
@@ -101,9 +107,10 @@ namespace Nicommerce.DataAccess.Migrations
                         {
                             Id = 1,
                             Author = "John Doe",
+                            CategoryId = 1,
                             Description = "A comprehensive guide to C# programming.",
                             ISBN = "978-1234567890",
-                            ListPrice = 49.990000000000002,
+                            ImageUrl = "",
                             Price = 39.990000000000002,
                             Title = "C# Programming"
                         },
@@ -111,9 +118,10 @@ namespace Nicommerce.DataAccess.Migrations
                         {
                             Id = 2,
                             Author = "Jane Smith",
+                            CategoryId = 2,
                             Description = "Learn how to build web applications using ASP.NET Core.",
                             ISBN = "978-0987654321",
-                            ListPrice = 59.990000000000002,
+                            ImageUrl = "",
                             Price = 49.990000000000002,
                             Title = "ASP.NET Core"
                         },
@@ -121,9 +129,10 @@ namespace Nicommerce.DataAccess.Migrations
                         {
                             Id = 3,
                             Author = "Alice Johnson",
+                            CategoryId = 3,
                             Description = "Master data access with Entity Framework.",
                             ISBN = "978-1122334455",
-                            ListPrice = 39.990000000000002,
+                            ImageUrl = "",
                             Price = 29.989999999999998,
                             Title = "Entity Framework"
                         },
@@ -131,9 +140,10 @@ namespace Nicommerce.DataAccess.Migrations
                         {
                             Id = 4,
                             Author = "Bob Brown",
+                            CategoryId = 2,
                             Description = "Explore LINQ and its powerful features.",
                             ISBN = "978-2233445566",
-                            ListPrice = 29.989999999999998,
+                            ImageUrl = "",
                             Price = 19.989999999999998,
                             Title = "LINQ in Action"
                         },
@@ -141,9 +151,10 @@ namespace Nicommerce.DataAccess.Migrations
                         {
                             Id = 5,
                             Author = "Charlie Green",
+                            CategoryId = 1,
                             Description = "Understand and apply design patterns in software development.",
                             ISBN = "978-3344556677",
-                            ListPrice = 69.989999999999995,
+                            ImageUrl = "",
                             Price = 59.990000000000002,
                             Title = "Design Patterns"
                         },
@@ -151,12 +162,24 @@ namespace Nicommerce.DataAccess.Migrations
                         {
                             Id = 6,
                             Author = "David White",
+                            CategoryId = 3,
                             Description = "Learn about microservices and how to implement them.",
                             ISBN = "978-4455667788",
-                            ListPrice = 79.989999999999995,
+                            ImageUrl = "",
                             Price = 69.989999999999995,
                             Title = "Microservices Architecture"
                         });
+                });
+
+            modelBuilder.Entity("Nicommerce.Models.Product", b =>
+                {
+                    b.HasOne("Nicommerce.Models.Category", "Category")
+                        .WithMany()
+                        .HasForeignKey("CategoryId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Category");
                 });
 #pragma warning restore 612, 618
         }

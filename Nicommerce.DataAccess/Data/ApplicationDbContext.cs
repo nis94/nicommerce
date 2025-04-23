@@ -31,8 +31,9 @@ public class ApplicationDbContext : DbContext
                 Description = "A comprehensive guide to C# programming.",
                 ISBN = "978-1234567890",
                 Author = "John Doe",
-                ListPrice = 49.99,
-                Price = 39.99
+                Price = 39.99,
+                CategoryId = 1,
+                ImageUrl = ""
             },
             new Product
             {
@@ -41,8 +42,9 @@ public class ApplicationDbContext : DbContext
                 Description = "Learn how to build web applications using ASP.NET Core.",
                 ISBN = "978-0987654321",
                 Author = "Jane Smith",
-                ListPrice = 59.99,
-                Price = 49.99
+                Price = 49.99,
+                CategoryId = 2,
+                ImageUrl = ""
             },
             new Product
             {
@@ -51,8 +53,9 @@ public class ApplicationDbContext : DbContext
                 Description = "Master data access with Entity Framework.",
                 ISBN = "978-1122334455",
                 Author = "Alice Johnson",
-                ListPrice = 39.99,
-                Price = 29.99
+                Price = 29.99,
+                CategoryId = 3,
+                ImageUrl = ""
             },
             new Product
             {
@@ -61,8 +64,9 @@ public class ApplicationDbContext : DbContext
                 Description = "Explore LINQ and its powerful features.",
                 ISBN = "978-2233445566",
                 Author = "Bob Brown",
-                ListPrice = 29.99,
-                Price = 19.99
+                Price = 19.99,
+                CategoryId = 2,
+                ImageUrl = ""
             },
             new Product
             {
@@ -71,8 +75,9 @@ public class ApplicationDbContext : DbContext
                 Description = "Understand and apply design patterns in software development.",
                 ISBN = "978-3344556677",
                 Author = "Charlie Green",
-                ListPrice = 69.99,
-                Price = 59.99
+                Price = 59.99,
+                CategoryId = 1,
+                ImageUrl = ""
             },
             new Product
             {
@@ -81,8 +86,9 @@ public class ApplicationDbContext : DbContext
                 Description = "Learn about microservices and how to implement them.",
                 ISBN = "978-4455667788",
                 Author = "David White",
-                ListPrice = 79.99,
-                Price = 69.99
+                Price = 69.99,
+                CategoryId = 3,
+                ImageUrl = ""
             }
         );
     }

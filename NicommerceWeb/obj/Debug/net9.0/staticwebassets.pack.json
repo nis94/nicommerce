@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "/Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/scopedcss/projectbundle/NicommerceWeb.bundle.scp.css",
-      "PackagePath": "staticwebassets/NicommerceWeb.z1jy7r90dg.bundle.scp.css"
+      "PackagePath": "staticwebassets/NicommerceWeb.p3hlk5gsiz.bundle.scp.css"
     },
     {
       "Id": "/Users/nirbarlevav/vs/NicommerceWeb/wwwroot/css/site.css",
@@ -11,6 +11,18 @@
     {
       "Id": "/Users/nirbarlevav/vs/NicommerceWeb/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/nirbarlevav/vs/NicommerceWeb/wwwroot/images/product/435dc73f-f542-4d6f-bca0-6c01bb99b6d2.jpg",
+      "PackagePath": "staticwebassets/images/product/435dc73f-f542-4d6f-bca0-6c01bb99b6d2.jpg"
+    },
+    {
+      "Id": "/Users/nirbarlevav/vs/NicommerceWeb/wwwroot/images/product/6b35525d-d185-46be-b531-65a7e0442cee.jpeg",
+      "PackagePath": "staticwebassets/images/product/6b35525d-d185-46be-b531-65a7e0442cee.jpeg"
+    },
+    {
+      "Id": "/Users/nirbarlevav/vs/NicommerceWeb/wwwroot/images/product/cdeb9777-64a3-40bf-b148-d35abb2d0048.jpeg",
+      "PackagePath": "staticwebassets/images/product/cdeb9777-64a3-40bf-b148-d35abb2d0048.jpeg"
     },
     {
       "Id": "/Users/nirbarlevav/vs/NicommerceWeb/wwwroot/js/site.js",

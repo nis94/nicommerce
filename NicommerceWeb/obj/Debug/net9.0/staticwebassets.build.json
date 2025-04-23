@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "d0dJHuhC/chVZElKqsC5TPyy2KFZ2sln21yRJTNc/KA=",
+  "Hash": "UDtAlf1H4ZarEucANx4bJrDJxSFo+rSHbJ8JAzSA2cc=",
   "Source": "NicommerceWeb",
   "BasePath": "_content/NicommerceWeb",
   "Mode": "Default",
@@ -899,12 +899,12 @@
       "OriginalItemSpec": "/Users/nirbarlevav/vs/NicommerceWeb/wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "/Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/compressed/ntb4hzequj-z1jy7r90dg.gz",
+      "Identity": "/Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/compressed/ntb4hzequj-p3hlk5gsiz.gz",
       "SourceId": "NicommerceWeb",
       "SourceType": "Computed",
       "ContentRoot": "/Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/NicommerceWeb",
-      "RelativePath": "NicommerceWeb#[.{fingerprint=z1jy7r90dg}]?.styles.css.gz",
+      "RelativePath": "NicommerceWeb#[.{fingerprint=p3hlk5gsiz}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -913,8 +913,8 @@
       "RelatedAsset": "/Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/scopedcss/bundle/NicommerceWeb.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "xw2hl56e4p",
-      "Integrity": "/43KVOLA8pDbmsBc0XShgdWmi8PJdGXeiaYcXP0jcO8=",
+      "Fingerprint": "k39c4miflv",
+      "Integrity": "EDWfPPZvL8AV1xMheYku9VgXzYMRP7jClWDPtMyPmGo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/scopedcss/bundle/NicommerceWeb.styles.css"
@@ -1130,12 +1130,12 @@
       "OriginalItemSpec": "/Users/nirbarlevav/vs/NicommerceWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Identity": "/Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/compressed/wywl4jkydp-z1jy7r90dg.gz",
+      "Identity": "/Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/compressed/wywl4jkydp-p3hlk5gsiz.gz",
       "SourceId": "NicommerceWeb",
       "SourceType": "Computed",
       "ContentRoot": "/Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/NicommerceWeb",
-      "RelativePath": "NicommerceWeb#[.{fingerprint=z1jy7r90dg}]!.bundle.scp.css.gz",
+      "RelativePath": "NicommerceWeb#[.{fingerprint=p3hlk5gsiz}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -1144,8 +1144,8 @@
       "RelatedAsset": "/Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/scopedcss/projectbundle/NicommerceWeb.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "xw2hl56e4p",
-      "Integrity": "/43KVOLA8pDbmsBc0XShgdWmi8PJdGXeiaYcXP0jcO8=",
+      "Fingerprint": "k39c4miflv",
+      "Integrity": "EDWfPPZvL8AV1xMheYku9VgXzYMRP7jClWDPtMyPmGo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/scopedcss/projectbundle/NicommerceWeb.bundle.scp.css"
@@ -1375,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "z1jy7r90dg",
-      "Integrity": "CSiwxGtq/4Hlkm6ZpNXeV4m4KXDGGgButx5ULzKOjgM=",
+      "Fingerprint": "p3hlk5gsiz",
+      "Integrity": "K+480UALZf+3pfZ87CjNiV2MGBa6w2I01nojkaE2LnY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/scopedcss/bundle/NicommerceWeb.styles.css"
@@ -1396,8 +1396,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "z1jy7r90dg",
-      "Integrity": "CSiwxGtq/4Hlkm6ZpNXeV4m4KXDGGgButx5ULzKOjgM=",
+      "Fingerprint": "p3hlk5gsiz",
+      "Integrity": "K+480UALZf+3pfZ87CjNiV2MGBa6w2I01nojkaE2LnY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/scopedcss/projectbundle/NicommerceWeb.bundle.scp.css"
@@ -1443,6 +1443,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/Users/nirbarlevav/vs/NicommerceWeb/wwwroot/images/product/435dc73f-f542-4d6f-bca0-6c01bb99b6d2.jpg",
+      "SourceId": "NicommerceWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nirbarlevav/vs/NicommerceWeb/wwwroot/",
+      "BasePath": "_content/NicommerceWeb",
+      "RelativePath": "images/product/435dc73f-f542-4d6f-bca0-6c01bb99b6d2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j9jnwwf5y5",
+      "Integrity": "uW6HGUU8OZXUj7fvqVzblsEgHq93ZYnxDIYquSvPSH4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/product/435dc73f-f542-4d6f-bca0-6c01bb99b6d2.jpg"
+    },
+    {
+      "Identity": "/Users/nirbarlevav/vs/NicommerceWeb/wwwroot/images/product/6b35525d-d185-46be-b531-65a7e0442cee.jpeg",
+      "SourceId": "NicommerceWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nirbarlevav/vs/NicommerceWeb/wwwroot/",
+      "BasePath": "_content/NicommerceWeb",
+      "RelativePath": "images/product/6b35525d-d185-46be-b531-65a7e0442cee#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mo607qwk8t",
+      "Integrity": "Ks+cYQHHvFK3rmPNn2cBzxgLznKg9Y+DAb0vWwYwEq8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/product/6b35525d-d185-46be-b531-65a7e0442cee.jpeg"
+    },
+    {
+      "Identity": "/Users/nirbarlevav/vs/NicommerceWeb/wwwroot/images/product/cdeb9777-64a3-40bf-b148-d35abb2d0048.jpeg",
+      "SourceId": "NicommerceWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nirbarlevav/vs/NicommerceWeb/wwwroot/",
+      "BasePath": "_content/NicommerceWeb",
+      "RelativePath": "images/product/cdeb9777-64a3-40bf-b148-d35abb2d0048#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5npn5l3ey7",
+      "Integrity": "kSqDOxA0DN52FZslXBKoXY6bj1D2kkEEkVWSFMaNUmQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/product/cdeb9777-64a3-40bf-b148-d35abb2d0048.jpeg"
     },
     {
       "Identity": "/Users/nirbarlevav/vs/NicommerceWeb/wwwroot/js/site.js",
@@ -3320,6 +3383,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-+/824NtfTA0L7Mr42Fo+86YJP4R5cigdi9S7Fx5VVl4="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/435dc73f-f542-4d6f-bca0-6c01bb99b6d2.j9jnwwf5y5.jpg",
+      "AssetFile": "/Users/nirbarlevav/vs/NicommerceWeb/wwwroot/images/product/435dc73f-f542-4d6f-bca0-6c01bb99b6d2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63379"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uW6HGUU8OZXUj7fvqVzblsEgHq93ZYnxDIYquSvPSH4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 19:00:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j9jnwwf5y5"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product/435dc73f-f542-4d6f-bca0-6c01bb99b6d2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uW6HGUU8OZXUj7fvqVzblsEgHq93ZYnxDIYquSvPSH4="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/435dc73f-f542-4d6f-bca0-6c01bb99b6d2.jpg",
+      "AssetFile": "/Users/nirbarlevav/vs/NicommerceWeb/wwwroot/images/product/435dc73f-f542-4d6f-bca0-6c01bb99b6d2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63379"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uW6HGUU8OZXUj7fvqVzblsEgHq93ZYnxDIYquSvPSH4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 19:00:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uW6HGUU8OZXUj7fvqVzblsEgHq93ZYnxDIYquSvPSH4="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/6b35525d-d185-46be-b531-65a7e0442cee.jpeg",
+      "AssetFile": "/Users/nirbarlevav/vs/NicommerceWeb/wwwroot/images/product/6b35525d-d185-46be-b531-65a7e0442cee.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "172560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ks+cYQHHvFK3rmPNn2cBzxgLznKg9Y+DAb0vWwYwEq8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 19:04:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ks+cYQHHvFK3rmPNn2cBzxgLznKg9Y+DAb0vWwYwEq8="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/6b35525d-d185-46be-b531-65a7e0442cee.mo607qwk8t.jpeg",
+      "AssetFile": "/Users/nirbarlevav/vs/NicommerceWeb/wwwroot/images/product/6b35525d-d185-46be-b531-65a7e0442cee.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "172560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ks+cYQHHvFK3rmPNn2cBzxgLznKg9Y+DAb0vWwYwEq8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 19:04:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mo607qwk8t"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product/6b35525d-d185-46be-b531-65a7e0442cee.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ks+cYQHHvFK3rmPNn2cBzxgLznKg9Y+DAb0vWwYwEq8="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/cdeb9777-64a3-40bf-b148-d35abb2d0048.5npn5l3ey7.jpeg",
+      "AssetFile": "/Users/nirbarlevav/vs/NicommerceWeb/wwwroot/images/product/cdeb9777-64a3-40bf-b148-d35abb2d0048.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "180146"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kSqDOxA0DN52FZslXBKoXY6bj1D2kkEEkVWSFMaNUmQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 06:10:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5npn5l3ey7"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product/cdeb9777-64a3-40bf-b148-d35abb2d0048.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kSqDOxA0DN52FZslXBKoXY6bj1D2kkEEkVWSFMaNUmQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/cdeb9777-64a3-40bf-b148-d35abb2d0048.jpeg",
+      "AssetFile": "/Users/nirbarlevav/vs/NicommerceWeb/wwwroot/images/product/cdeb9777-64a3-40bf-b148-d35abb2d0048.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "180146"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kSqDOxA0DN52FZslXBKoXY6bj1D2kkEEkVWSFMaNUmQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 06:10:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kSqDOxA0DN52FZslXBKoXY6bj1D2kkEEkVWSFMaNUmQ="
         }
       ]
     },
@@ -21287,12 +21596,12 @@
     },
     {
       "Route": "NicommerceWeb.bundle.scp.css",
-      "AssetFile": "/Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/compressed/wywl4jkydp-z1jy7r90dg.gz",
+      "AssetFile": "/Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/compressed/wywl4jkydp-p3hlk5gsiz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001890359168"
+          "Quality": "0.001923076923"
         }
       ],
       "ResponseHeaders": [
@@ -21302,15 +21611,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "528"
+          "Value": "519"
         },
         {
           "Name": "ETag",
-          "Value": "\"/43KVOLA8pDbmsBc0XShgdWmi8PJdGXeiaYcXP0jcO8=\""
+          "Value": "\"EDWfPPZvL8AV1xMheYku9VgXzYMRP7jClWDPtMyPmGo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 04:48:40 GMT"
+          "Value": "Sat, 19 Apr 2025 16:28:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21330,13 +21639,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"CSiwxGtq/4Hlkm6ZpNXeV4m4KXDGGgButx5ULzKOjgM=\""
+          "Value": "W/\"K+480UALZf+3pfZ87CjNiV2MGBa6w2I01nojkaE2LnY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CSiwxGtq/4Hlkm6ZpNXeV4m4KXDGGgButx5ULzKOjgM="
+          "Value": "sha256-K+480UALZf+3pfZ87CjNiV2MGBa6w2I01nojkaE2LnY="
         }
       ]
     },
@@ -21351,7 +21660,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1043"
+          "Value": "1026"
         },
         {
           "Name": "Content-Type",
@@ -21359,11 +21668,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CSiwxGtq/4Hlkm6ZpNXeV4m4KXDGGgButx5ULzKOjgM=\""
+          "Value": "\"K+480UALZf+3pfZ87CjNiV2MGBa6w2I01nojkaE2LnY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 04:48:40 GMT"
+          "Value": "Sat, 19 Apr 2025 16:28:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21373,13 +21682,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CSiwxGtq/4Hlkm6ZpNXeV4m4KXDGGgButx5ULzKOjgM="
+          "Value": "sha256-K+480UALZf+3pfZ87CjNiV2MGBa6w2I01nojkaE2LnY="
         }
       ]
     },
     {
       "Route": "NicommerceWeb.bundle.scp.css.gz",
-      "AssetFile": "/Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/compressed/wywl4jkydp-z1jy7r90dg.gz",
+      "AssetFile": "/Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/compressed/wywl4jkydp-p3hlk5gsiz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21388,7 +21697,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "528"
+          "Value": "519"
         },
         {
           "Name": "Content-Type",
@@ -21396,11 +21705,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/43KVOLA8pDbmsBc0XShgdWmi8PJdGXeiaYcXP0jcO8=\""
+          "Value": "\"EDWfPPZvL8AV1xMheYku9VgXzYMRP7jClWDPtMyPmGo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 04:48:40 GMT"
+          "Value": "Sat, 19 Apr 2025 16:28:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21418,18 +21727,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/43KVOLA8pDbmsBc0XShgdWmi8PJdGXeiaYcXP0jcO8="
+          "Value": "sha256-EDWfPPZvL8AV1xMheYku9VgXzYMRP7jClWDPtMyPmGo="
         }
       ]
     },
     {
-      "Route": "NicommerceWeb.styles.css",
-      "AssetFile": "/Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/compressed/ntb4hzequj-z1jy7r90dg.gz",
+      "Route": "NicommerceWeb.p3hlk5gsiz.bundle.scp.css",
+      "AssetFile": "/Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/compressed/wywl4jkydp-p3hlk5gsiz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001890359168"
+          "Quality": "0.001923076923"
         }
       ],
       "ResponseHeaders": [
@@ -21439,152 +21748,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "528"
+          "Value": "519"
         },
         {
           "Name": "ETag",
-          "Value": "\"/43KVOLA8pDbmsBc0XShgdWmi8PJdGXeiaYcXP0jcO8=\""
+          "Value": "\"EDWfPPZvL8AV1xMheYku9VgXzYMRP7jClWDPtMyPmGo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 04:48:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"CSiwxGtq/4Hlkm6ZpNXeV4m4KXDGGgButx5ULzKOjgM=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-CSiwxGtq/4Hlkm6ZpNXeV4m4KXDGGgButx5ULzKOjgM="
-        }
-      ]
-    },
-    {
-      "Route": "NicommerceWeb.styles.css",
-      "AssetFile": "/Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/scopedcss/bundle/NicommerceWeb.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1043"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"CSiwxGtq/4Hlkm6ZpNXeV4m4KXDGGgButx5ULzKOjgM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 04:48:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-CSiwxGtq/4Hlkm6ZpNXeV4m4KXDGGgButx5ULzKOjgM="
-        }
-      ]
-    },
-    {
-      "Route": "NicommerceWeb.styles.css.gz",
-      "AssetFile": "/Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/compressed/ntb4hzequj-z1jy7r90dg.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "528"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/43KVOLA8pDbmsBc0XShgdWmi8PJdGXeiaYcXP0jcO8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 04:48:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-/43KVOLA8pDbmsBc0XShgdWmi8PJdGXeiaYcXP0jcO8="
-        }
-      ]
-    },
-    {
-      "Route": "NicommerceWeb.z1jy7r90dg.bundle.scp.css",
-      "AssetFile": "/Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/compressed/wywl4jkydp-z1jy7r90dg.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001890359168"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "528"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/43KVOLA8pDbmsBc0XShgdWmi8PJdGXeiaYcXP0jcO8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 04:48:40 GMT"
+          "Value": "Sat, 19 Apr 2025 16:28:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21604,13 +21776,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"CSiwxGtq/4Hlkm6ZpNXeV4m4KXDGGgButx5ULzKOjgM=\""
+          "Value": "W/\"K+480UALZf+3pfZ87CjNiV2MGBa6w2I01nojkaE2LnY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "z1jy7r90dg"
+          "Value": "p3hlk5gsiz"
         },
         {
           "Name": "label",
@@ -21618,12 +21790,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CSiwxGtq/4Hlkm6ZpNXeV4m4KXDGGgButx5ULzKOjgM="
+          "Value": "sha256-K+480UALZf+3pfZ87CjNiV2MGBa6w2I01nojkaE2LnY="
         }
       ]
     },
     {
-      "Route": "NicommerceWeb.z1jy7r90dg.bundle.scp.css",
+      "Route": "NicommerceWeb.p3hlk5gsiz.bundle.scp.css",
       "AssetFile": "/Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/scopedcss/projectbundle/NicommerceWeb.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -21633,7 +21805,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1043"
+          "Value": "1026"
         },
         {
           "Name": "Content-Type",
@@ -21641,11 +21813,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CSiwxGtq/4Hlkm6ZpNXeV4m4KXDGGgButx5ULzKOjgM=\""
+          "Value": "\"K+480UALZf+3pfZ87CjNiV2MGBa6w2I01nojkaE2LnY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 04:48:40 GMT"
+          "Value": "Sat, 19 Apr 2025 16:28:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21655,7 +21827,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "z1jy7r90dg"
+          "Value": "p3hlk5gsiz"
         },
         {
           "Name": "label",
@@ -21663,13 +21835,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CSiwxGtq/4Hlkm6ZpNXeV4m4KXDGGgButx5ULzKOjgM="
+          "Value": "sha256-K+480UALZf+3pfZ87CjNiV2MGBa6w2I01nojkaE2LnY="
         }
       ]
     },
     {
-      "Route": "NicommerceWeb.z1jy7r90dg.bundle.scp.css.gz",
-      "AssetFile": "/Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/compressed/wywl4jkydp-z1jy7r90dg.gz",
+      "Route": "NicommerceWeb.p3hlk5gsiz.bundle.scp.css.gz",
+      "AssetFile": "/Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/compressed/wywl4jkydp-p3hlk5gsiz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21678,7 +21850,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "528"
+          "Value": "519"
         },
         {
           "Name": "Content-Type",
@@ -21686,11 +21858,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/43KVOLA8pDbmsBc0XShgdWmi8PJdGXeiaYcXP0jcO8=\""
+          "Value": "\"EDWfPPZvL8AV1xMheYku9VgXzYMRP7jClWDPtMyPmGo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 04:48:40 GMT"
+          "Value": "Sat, 19 Apr 2025 16:28:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21708,7 +21880,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "z1jy7r90dg"
+          "Value": "p3hlk5gsiz"
         },
         {
           "Name": "label",
@@ -21716,18 +21888,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/43KVOLA8pDbmsBc0XShgdWmi8PJdGXeiaYcXP0jcO8="
+          "Value": "sha256-EDWfPPZvL8AV1xMheYku9VgXzYMRP7jClWDPtMyPmGo="
         }
       ]
     },
     {
-      "Route": "NicommerceWeb.z1jy7r90dg.styles.css",
-      "AssetFile": "/Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/compressed/ntb4hzequj-z1jy7r90dg.gz",
+      "Route": "NicommerceWeb.p3hlk5gsiz.styles.css",
+      "AssetFile": "/Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/compressed/ntb4hzequj-p3hlk5gsiz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001890359168"
+          "Quality": "0.001923076923"
         }
       ],
       "ResponseHeaders": [
@@ -21737,15 +21909,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "528"
+          "Value": "519"
         },
         {
           "Name": "ETag",
-          "Value": "\"/43KVOLA8pDbmsBc0XShgdWmi8PJdGXeiaYcXP0jcO8=\""
+          "Value": "\"EDWfPPZvL8AV1xMheYku9VgXzYMRP7jClWDPtMyPmGo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 04:48:40 GMT"
+          "Value": "Sat, 19 Apr 2025 16:28:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21765,13 +21937,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"CSiwxGtq/4Hlkm6ZpNXeV4m4KXDGGgButx5ULzKOjgM=\""
+          "Value": "W/\"K+480UALZf+3pfZ87CjNiV2MGBa6w2I01nojkaE2LnY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "z1jy7r90dg"
+          "Value": "p3hlk5gsiz"
         },
         {
           "Name": "label",
@@ -21779,12 +21951,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CSiwxGtq/4Hlkm6ZpNXeV4m4KXDGGgButx5ULzKOjgM="
+          "Value": "sha256-K+480UALZf+3pfZ87CjNiV2MGBa6w2I01nojkaE2LnY="
         }
       ]
     },
     {
-      "Route": "NicommerceWeb.z1jy7r90dg.styles.css",
+      "Route": "NicommerceWeb.p3hlk5gsiz.styles.css",
       "AssetFile": "/Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/scopedcss/bundle/NicommerceWeb.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -21794,7 +21966,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1043"
+          "Value": "1026"
         },
         {
           "Name": "Content-Type",
@@ -21802,11 +21974,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CSiwxGtq/4Hlkm6ZpNXeV4m4KXDGGgButx5ULzKOjgM=\""
+          "Value": "\"K+480UALZf+3pfZ87CjNiV2MGBa6w2I01nojkaE2LnY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 04:48:40 GMT"
+          "Value": "Sat, 19 Apr 2025 16:28:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21816,7 +21988,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "z1jy7r90dg"
+          "Value": "p3hlk5gsiz"
         },
         {
           "Name": "label",
@@ -21824,13 +21996,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CSiwxGtq/4Hlkm6ZpNXeV4m4KXDGGgButx5ULzKOjgM="
+          "Value": "sha256-K+480UALZf+3pfZ87CjNiV2MGBa6w2I01nojkaE2LnY="
         }
       ]
     },
     {
-      "Route": "NicommerceWeb.z1jy7r90dg.styles.css.gz",
-      "AssetFile": "/Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/compressed/ntb4hzequj-z1jy7r90dg.gz",
+      "Route": "NicommerceWeb.p3hlk5gsiz.styles.css.gz",
+      "AssetFile": "/Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/compressed/ntb4hzequj-p3hlk5gsiz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21839,7 +22011,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "528"
+          "Value": "519"
         },
         {
           "Name": "Content-Type",
@@ -21847,11 +22019,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/43KVOLA8pDbmsBc0XShgdWmi8PJdGXeiaYcXP0jcO8=\""
+          "Value": "\"EDWfPPZvL8AV1xMheYku9VgXzYMRP7jClWDPtMyPmGo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 04:48:40 GMT"
+          "Value": "Sat, 19 Apr 2025 16:28:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21869,7 +22041,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "z1jy7r90dg"
+          "Value": "p3hlk5gsiz"
         },
         {
           "Name": "label",
@@ -21877,7 +22049,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/43KVOLA8pDbmsBc0XShgdWmi8PJdGXeiaYcXP0jcO8="
+          "Value": "sha256-EDWfPPZvL8AV1xMheYku9VgXzYMRP7jClWDPtMyPmGo="
+        }
+      ]
+    },
+    {
+      "Route": "NicommerceWeb.styles.css",
+      "AssetFile": "/Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/compressed/ntb4hzequj-p3hlk5gsiz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001923076923"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "519"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EDWfPPZvL8AV1xMheYku9VgXzYMRP7jClWDPtMyPmGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 16:28:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"K+480UALZf+3pfZ87CjNiV2MGBa6w2I01nojkaE2LnY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K+480UALZf+3pfZ87CjNiV2MGBa6w2I01nojkaE2LnY="
+        }
+      ]
+    },
+    {
+      "Route": "NicommerceWeb.styles.css",
+      "AssetFile": "/Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/scopedcss/bundle/NicommerceWeb.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1026"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K+480UALZf+3pfZ87CjNiV2MGBa6w2I01nojkaE2LnY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 16:28:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K+480UALZf+3pfZ87CjNiV2MGBa6w2I01nojkaE2LnY="
+        }
+      ]
+    },
+    {
+      "Route": "NicommerceWeb.styles.css.gz",
+      "AssetFile": "/Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/compressed/ntb4hzequj-p3hlk5gsiz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "519"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EDWfPPZvL8AV1xMheYku9VgXzYMRP7jClWDPtMyPmGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 16:28:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EDWfPPZvL8AV1xMheYku9VgXzYMRP7jClWDPtMyPmGo="
         }
       ]
     }

@@ -1,5 +1,7 @@
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
 
 namespace Nicommerce.Models;
 
@@ -15,10 +17,12 @@ public class Product
     [Required]
     public string Author { get; set; }
     [Required]
-    [DisplayName("List Price")]
-    [Range(1, 1000)]
-    public double ListPrice { get; set; }
-    [Required]
     [Range(1, 1000)]
     public double Price { get; set; }
+    public int CategoryId { get; set;}
+    [ForeignKey("CategoryId")]
+    [ValidateNever]
+    public Category Category { get; set; }
+    [ValidateNever]
+    public string ImageUrl { get; set; }
 }

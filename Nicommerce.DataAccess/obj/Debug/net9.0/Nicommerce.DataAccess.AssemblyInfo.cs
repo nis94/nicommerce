@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nicommerce.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb4ca3548d954703aa653c05c135b557bac7b386")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3f9e48387bd7ad43f37da57c72500e899c64b09")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nicommerce.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nicommerce.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

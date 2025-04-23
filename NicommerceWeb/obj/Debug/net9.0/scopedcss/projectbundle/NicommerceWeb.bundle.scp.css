@@ -37,8 +37,7 @@ button.accept-policy[b-vw26lpqyn2] {
 }
 
 .footer[b-vw26lpqyn2] {
-  position: absolute;
-  bottom: 0;
+  position: flex;
   width: 100%;
   white-space: nowrap;
   line-height: 60px;

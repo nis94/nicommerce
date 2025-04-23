@@ -236,5 +236,6 @@
 /Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/NicommerceWeb.pdb
 /Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/NicommerceWeb.genruntimeconfig.cache
 /Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/ref/NicommerceWeb.dll
-/Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/compressed/ntb4hzequj-z1jy7r90dg.gz
-/Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/compressed/wywl4jkydp-z1jy7r90dg.gz
+/Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/compressed/ntb4hzequj-p3hlk5gsiz.gz
+/Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/compressed/wywl4jkydp-p3hlk5gsiz.gz
+/Users/nirbarlevav/vs/NicommerceWeb/obj/Debug/net9.0/NicommerceWeb.MvcApplicationPartsAssemblyInfo.cs

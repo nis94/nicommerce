@@ -8,9 +8,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="9.0.4.0" />
     <ProjectReference Include="../Nicommerce.Models/Nicommerce.Models.csproj" />
     <ProjectReference Include="../Nicommerce.Utility/Nicommerce.Utility.csproj" />
     <ProjectReference Include="../Nicommerce.DataAccess/Nicommerce.DataAccess.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot/images/" />
+    <Folder Include="wwwroot/images/product/" />
   </ItemGroup>
 
 </Project>

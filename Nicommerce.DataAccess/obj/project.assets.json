@@ -926,7 +926,10 @@
         },
         "runtime": {
           "bin/placeholder/Nicommerce.Models.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "Nicommerce.Utility/1.0.0": {
         "type": "project",
