@@ -21,7 +21,6 @@
 
     <ItemGroup>
       <ProjectReference Include="../Nicommerce.Models/Nicommerce.Models.csproj" />
-      <ProjectReference Include="../Nicommerce.Utility/Nicommerce.Utility.csproj" />
     </ItemGroup>
 
 </Project>
