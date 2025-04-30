@@ -742,19 +742,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/nirbarlevav/.nuget/packages/": {}
+    "C:\\Users\\Nir Barlevav\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nirbarlevav/vs/NicommerceWeb/NicommerceWeb.csproj",
+      "projectUniqueName": "C:\\Users\\Nir Barlevav\\IdeaProjects\\nicommerce\\NicommerceWeb\\NicommerceWeb.csproj",
       "projectName": "NicommerceWeb",
-      "projectPath": "/Users/nirbarlevav/vs/NicommerceWeb/NicommerceWeb.csproj",
-      "packagesPath": "/Users/nirbarlevav/.nuget/packages/",
-      "outputPath": "/Users/nirbarlevav/vs/NicommerceWeb/obj/",
+      "projectPath": "C:\\Users\\Nir Barlevav\\IdeaProjects\\nicommerce\\NicommerceWeb\\NicommerceWeb.csproj",
+      "packagesPath": "C:\\Users\\Nir Barlevav\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Nir Barlevav\\IdeaProjects\\nicommerce\\NicommerceWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/nirbarlevav/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Nir Barlevav\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -766,14 +766,14 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/Users/nirbarlevav/vs/Nicommerce.DataAccess/Nicommerce.DataAccess.csproj": {
-              "projectPath": "/Users/nirbarlevav/vs/Nicommerce.DataAccess/Nicommerce.DataAccess.csproj"
+            "C:\\Users\\Nir Barlevav\\IdeaProjects\\nicommerce\\Nicommerce.DataAccess\\Nicommerce.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Nir Barlevav\\IdeaProjects\\nicommerce\\Nicommerce.DataAccess\\Nicommerce.DataAccess.csproj"
             },
-            "/Users/nirbarlevav/vs/Nicommerce.Models/Nicommerce.Models.csproj": {
-              "projectPath": "/Users/nirbarlevav/vs/Nicommerce.Models/Nicommerce.Models.csproj"
+            "C:\\Users\\Nir Barlevav\\IdeaProjects\\nicommerce\\Nicommerce.Models\\Nicommerce.Models.csproj": {
+              "projectPath": "C:\\Users\\Nir Barlevav\\IdeaProjects\\nicommerce\\Nicommerce.Models\\Nicommerce.Models.csproj"
             },
-            "/Users/nirbarlevav/vs/Nicommerce.Utility/Nicommerce.Utility.csproj": {
-              "projectPath": "/Users/nirbarlevav/vs/Nicommerce.Utility/Nicommerce.Utility.csproj"
+            "C:\\Users\\Nir Barlevav\\IdeaProjects\\nicommerce\\Nicommerce.Utility\\Nicommerce.Utility.csproj": {
+              "projectPath": "C:\\Users\\Nir Barlevav\\IdeaProjects\\nicommerce\\Nicommerce.Utility\\Nicommerce.Utility.csproj"
             }
           }
         }
@@ -818,7 +818,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

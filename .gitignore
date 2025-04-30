@@ -1,0 +1,86 @@
+# Build artifacts
+bin/
+obj/
+out/
+artifacts/
+
+# Rider project files
+.idea/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code settings
+.vscode/
+
+# Visual Studio folder
+.vs/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Configuration files with secrets (edit if needed)
+secrets.json
+
+# Logs
+*.log
+
+# NuGet packages (optional: include if using packages folder)
+*.nupkg
+*.snupkg
+packages/
+
+# Database files
+*.mdf
+*.ldf
+*.sqlite
+*.db
+
+# Compiled DLLs and EXEs
+*.dll
+*.exe
+*.pdb
+*.cache
+
+# Publish directory
+publish/
+dist/
+Generated_Code/
+
+# Others
+_ReSharper*/
+*.resharper
+*.DotSettings.user
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# JetBrains Rider
+.idea/
+
+# Test result files
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# DotCover
+*.dotCover
+
+# Tye
+.tye/
+
+# Local tools
+.localtoolsettings.json

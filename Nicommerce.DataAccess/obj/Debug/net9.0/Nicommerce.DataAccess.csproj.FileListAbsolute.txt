@@ -38,3 +38,23 @@
 /Users/nirbarlevav/vs/Nicommerce.DataAccess/obj/Debug/net9.0/Nicommerce.DataAccess.pdb
 /Users/nirbarlevav/vs/Nicommerce.DataAccess/obj/Debug/net9.0/Nicommerce.DataAccess.genruntimeconfig.cache
 /Users/nirbarlevav/vs/Nicommerce.DataAccess/obj/Debug/net9.0/ref/Nicommerce.DataAccess.dll
+C:\Users\Nir Barlevav\IdeaProjects\nicommerce\Nicommerce.DataAccess\bin\Debug\net9.0\Nicommerce.DataAccess.deps.json
+C:\Users\Nir Barlevav\IdeaProjects\nicommerce\Nicommerce.DataAccess\bin\Debug\net9.0\Nicommerce.DataAccess.runtimeconfig.json
+C:\Users\Nir Barlevav\IdeaProjects\nicommerce\Nicommerce.DataAccess\bin\Debug\net9.0\Nicommerce.DataAccess.dll
+C:\Users\Nir Barlevav\IdeaProjects\nicommerce\Nicommerce.DataAccess\bin\Debug\net9.0\Nicommerce.DataAccess.pdb
+C:\Users\Nir Barlevav\IdeaProjects\nicommerce\Nicommerce.DataAccess\bin\Debug\net9.0\Nicommerce.Models.dll
+C:\Users\Nir Barlevav\IdeaProjects\nicommerce\Nicommerce.DataAccess\bin\Debug\net9.0\Nicommerce.Utility.dll
+C:\Users\Nir Barlevav\IdeaProjects\nicommerce\Nicommerce.DataAccess\bin\Debug\net9.0\Nicommerce.Models.pdb
+C:\Users\Nir Barlevav\IdeaProjects\nicommerce\Nicommerce.DataAccess\bin\Debug\net9.0\Nicommerce.Utility.pdb
+C:\Users\Nir Barlevav\IdeaProjects\nicommerce\Nicommerce.DataAccess\obj\Debug\net9.0\Nicommerce.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Nir Barlevav\IdeaProjects\nicommerce\Nicommerce.DataAccess\obj\Debug\net9.0\Nicommerce.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nir Barlevav\IdeaProjects\nicommerce\Nicommerce.DataAccess\obj\Debug\net9.0\Nicommerce.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Nir Barlevav\IdeaProjects\nicommerce\Nicommerce.DataAccess\obj\Debug\net9.0\Nicommerce.DataAccess.AssemblyInfo.cs
+C:\Users\Nir Barlevav\IdeaProjects\nicommerce\Nicommerce.DataAccess\obj\Debug\net9.0\Nicommerce.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Nir Barlevav\IdeaProjects\nicommerce\Nicommerce.DataAccess\obj\Debug\net9.0\Nicommerce.DataAccess.sourcelink.json
+C:\Users\Nir Barlevav\IdeaProjects\nicommerce\Nicommerce.DataAccess\obj\Debug\net9.0\Nicommer.4B0E336F.Up2Date
+C:\Users\Nir Barlevav\IdeaProjects\nicommerce\Nicommerce.DataAccess\obj\Debug\net9.0\Nicommerce.DataAccess.dll
+C:\Users\Nir Barlevav\IdeaProjects\nicommerce\Nicommerce.DataAccess\obj\Debug\net9.0\refint\Nicommerce.DataAccess.dll
+C:\Users\Nir Barlevav\IdeaProjects\nicommerce\Nicommerce.DataAccess\obj\Debug\net9.0\Nicommerce.DataAccess.pdb
+C:\Users\Nir Barlevav\IdeaProjects\nicommerce\Nicommerce.DataAccess\obj\Debug\net9.0\Nicommerce.DataAccess.genruntimeconfig.cache
+C:\Users\Nir Barlevav\IdeaProjects\nicommerce\Nicommerce.DataAccess\obj\Debug\net9.0\ref\Nicommerce.DataAccess.dll

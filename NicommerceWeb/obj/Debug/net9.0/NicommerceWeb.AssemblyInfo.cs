@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NicommerceWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3f9e48387bd7ad43f37da57c72500e899c64b09")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f15b3b139b7283c01475103918b86fab1be6a8e")]
 [assembly: System.Reflection.AssemblyProductAttribute("NicommerceWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NicommerceWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

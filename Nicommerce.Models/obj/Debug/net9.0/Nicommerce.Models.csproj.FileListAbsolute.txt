@@ -22,3 +22,15 @@
 /Users/nirbarlevav/vs/Nicommerce.Models/obj/Debug/net9.0/refint/Nicommerce.Models.dll
 /Users/nirbarlevav/vs/Nicommerce.Models/obj/Debug/net9.0/Nicommerce.Models.pdb
 /Users/nirbarlevav/vs/Nicommerce.Models/obj/Debug/net9.0/ref/Nicommerce.Models.dll
+C:\Users\Nir Barlevav\IdeaProjects\nicommerce\Nicommerce.Models\bin\Debug\net9.0\Nicommerce.Models.deps.json
+C:\Users\Nir Barlevav\IdeaProjects\nicommerce\Nicommerce.Models\bin\Debug\net9.0\Nicommerce.Models.dll
+C:\Users\Nir Barlevav\IdeaProjects\nicommerce\Nicommerce.Models\bin\Debug\net9.0\Nicommerce.Models.pdb
+C:\Users\Nir Barlevav\IdeaProjects\nicommerce\Nicommerce.Models\obj\Debug\net9.0\Nicommerce.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nir Barlevav\IdeaProjects\nicommerce\Nicommerce.Models\obj\Debug\net9.0\Nicommerce.Models.AssemblyInfoInputs.cache
+C:\Users\Nir Barlevav\IdeaProjects\nicommerce\Nicommerce.Models\obj\Debug\net9.0\Nicommerce.Models.AssemblyInfo.cs
+C:\Users\Nir Barlevav\IdeaProjects\nicommerce\Nicommerce.Models\obj\Debug\net9.0\Nicommerce.Models.csproj.CoreCompileInputs.cache
+C:\Users\Nir Barlevav\IdeaProjects\nicommerce\Nicommerce.Models\obj\Debug\net9.0\Nicommerce.Models.sourcelink.json
+C:\Users\Nir Barlevav\IdeaProjects\nicommerce\Nicommerce.Models\obj\Debug\net9.0\Nicommerce.Models.dll
+C:\Users\Nir Barlevav\IdeaProjects\nicommerce\Nicommerce.Models\obj\Debug\net9.0\refint\Nicommerce.Models.dll
+C:\Users\Nir Barlevav\IdeaProjects\nicommerce\Nicommerce.Models\obj\Debug\net9.0\Nicommerce.Models.pdb
+C:\Users\Nir Barlevav\IdeaProjects\nicommerce\Nicommerce.Models\obj\Debug\net9.0\ref\Nicommerce.Models.dll
