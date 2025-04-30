@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../build/NicommerceWeb.props" />
-</Project>
