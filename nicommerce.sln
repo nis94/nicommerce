@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nicommerce.DataAccess", "Ni
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nicommerce.Models", "Nicommerce.Models\Nicommerce.Models.csproj", "{2615588B-176F-46FA-A4C6-C049840C7121}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nicommerce.Utility", "Nicommerce.Utility\Nicommerce.Utility.csproj", "{A58283BE-275A-43CD-AC7B-2343001505D4}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
